@@ -24,5 +24,8 @@ A simple AI code validator web app.
 
 ![App Screenshot](C:\Users\hp\Pictures\Screenshots\Screenshot 2025-04-08 095745.png)
 
+## Use Case
+🧠 “This app allows users to paste code and receive AI-based suggestions or validations using OpenAI. It’s useful for quickly spotting syntax errors, logic issues, or improvements in code snippets.”
+
 ## Author
 Sneha Bhasin
